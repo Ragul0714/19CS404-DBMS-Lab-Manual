@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## NAME:POOJASRI L
-## REG.NO:212223220076
+## NAME:RAGUL.K
+## REG.NO:212224040258
 ## AIM
 To study and implement subqueries and views.
 
