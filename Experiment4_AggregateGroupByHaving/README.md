@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME: POOJASRI L
-## REG.NO:212223220076
+## NAME: RAGUL K
+## REG.NO:212224040258
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
